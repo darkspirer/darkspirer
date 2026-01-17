@@ -1,0 +1,3 @@
+# Offensive Security 
+- Offensive security is a proactive branch of cybersecurity focused on actively finding and exploiting vulnerabilities in systems, networks, and applications—to help organizations improve their defenses.
+- Think of it as "ethical hacking" or "authorized hacking."
