@@ -1,0 +1,1 @@
+# computer ichki qismlari 
