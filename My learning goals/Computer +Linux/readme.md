@@ -1,1 +1,2 @@
-# computer ichki qismlari 
+# Computer
+- 
