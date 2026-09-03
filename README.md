@@ -1,12 +1,8 @@
-# Ethical hacker
+# Hi, I'm darkspirer <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="30px"/> 
 - I want to be an ethical hacker
 ## My skills
 - Computer languages:
   - Python(Basic)
   - C++(Basic) 
-- Languages:
 
-  - Uzbek(Native)
-  - Korean(Topik - 4 급)
-  - English(learning (A1-A2)
 
