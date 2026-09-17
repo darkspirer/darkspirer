@@ -19,10 +19,8 @@
 ### 🏆 Certifications
 ✅ Cisco Networking Academy — Introduction to Cybersecurity
 ✅ Cisco Networking Academy — Python Essentials
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=darkspirer&show_icons=true&theme=default&hide_border=true&count_private=true" alt="darkspirer's GitHub stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkspirer&layout=compact&hide_border=true" alt="Top Languages"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkspirer&hide_border=true" alt="GitHub Streak"/> </p>
 
-### 📫 Connect with Me
+#### 📫 Connect with Me
 <p align="left"> <!-- Replace # with your real links --> <a href="https://t.me/darkspirer" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>  <a href="mailto:xidirovsardor99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> </p>
 <p align="center"><i>⭐️ Thanks for visiting my profile! More projects coming soon.</i>
 
