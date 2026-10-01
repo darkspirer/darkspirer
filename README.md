@@ -2,7 +2,6 @@
 🎯 About Me
 🔐 I want to become an Ethical Hacker 
 🌱 Currently strengthening my foundations in networking, Python, and cybersecurity fundamentals
-📚 Completed Cisco Networking Academy courses: Cybersecurity Introduction & Python Essentials
 💻 I document what I learn and push it here on GitHub
 
 🛠️ Skills
@@ -18,6 +17,7 @@
 
 ### 🏆 Certifications
 ✅ Cisco Networking Academy — Introduction to Cybersecurity
+
 ✅ Cisco Networking Academy — Python Essentials
 
 #### 📫 Connect with Me
