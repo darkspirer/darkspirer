@@ -20,7 +20,7 @@
 
 ✅ Cisco Networking Academy — Python Essentials
 
-✅ Cisco Networking Academy - C++ Essentials 
+✅ Cisco Networking Academy — C++ Essentials 
 
 #### 📫 Connect with Me
 <p align="left">
