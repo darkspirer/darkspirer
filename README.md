@@ -20,6 +20,8 @@
 
 ✅ Cisco Networking Academy — Python Essentials
 
+✅ Cisco Networking Academy - C++ Essentials 
+
 #### 📫 Connect with Me
 <p align="left">
   <a href="https://t.me/darkspirer" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
